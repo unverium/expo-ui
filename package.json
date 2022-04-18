@@ -1,0 +1,25 @@
+{
+    "name": "expo-ui",
+    "version": "1.0.0",
+    "description": "Expo Compatible UI Library",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/unverium/expo-ui.git"
+    },
+    "keywords": [
+        "expo",
+        "reac native",
+        "ui",
+        "ui kit"
+    ],
+    "author": "unverium",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/unverium/expo-ui/issues"
+    },
+    "homepage": "https://github.com/unverium/expo-ui#readme"
+}
